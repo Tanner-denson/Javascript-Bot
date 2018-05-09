@@ -1,6 +1,5 @@
 # Javascript-Bot
-Basic bot made using Discord.js
-
+Simple Discord bot made using Discord.js
 
 Entry point is Bot.js
-Each command is contained in its own file.
+Each command is contained in its own file in the commands folder.
